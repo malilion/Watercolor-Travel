@@ -30,3 +30,7 @@ rules) used for these prints is documented in [Prompt.md](Prompt.md).
   pale gray, warm golden yellow
 - Small, centered illustration surrounded by generous blank paper margin
 - Understated, hand-lettered typography in dark blue-gray ink
+
+## License
+
+Code: [MIT](LICENSE). Original assets (art, models, audio, renders): [CC BY-NC 4.0](ASSETS_LICENSE.md).
